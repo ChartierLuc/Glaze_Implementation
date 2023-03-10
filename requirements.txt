@@ -1,0 +1,10 @@
+Pillow
+transformers
+torch
+torchvision
+clip
+matplotlib
+lpips
+jupyter
+diffusers
+accelerate
